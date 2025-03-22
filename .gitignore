@@ -1,0 +1,12 @@
+# Ignore Firebase configuration file
+src/firebase/firebaseConfig.js
+src/firebase/firebase.js
+
+
+node_modules/
+
+venv/
+env/
+backend/venv/
+backend/env/
+
